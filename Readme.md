@@ -1,4 +1,4 @@
-# 🎙️ Audio-to-Insight AI
+# 🎙️ VoxIntel – Audio Intelligence & RAG Platform 
 
 > An AI-powered application that converts audio and YouTube content into searchable knowledge through transcription, summarization, PDF export, and RAG-powered Q&A.
 
